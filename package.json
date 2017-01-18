@@ -1,7 +1,0 @@
-{
-    "name": "mysql-data",
-    "version": "1.0.0",
-    "description": "mysql data volume",
-    "keywords": ["mysql", "volume"],
-    "author": "Björn Kjeholt <bjorn@kjeholt.se>"
-}
